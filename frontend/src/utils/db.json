@@ -1,0 +1,16 @@
+{
+	"quizzes":[
+		{
+			"title":"Chemestry",
+			"number":1992
+		},
+		{
+			"title":"Madonna",
+			"number":396
+		},
+		{
+			"title":"Development",
+			"number":1653
+		}
+	]
+}
