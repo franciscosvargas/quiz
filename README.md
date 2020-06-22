@@ -3,7 +3,7 @@
 Quiz is a modern, simple and funny application to play quizzes. The users can create and share custom quizzes to their friends or all players. **What you want to play today?**
 
 
-![Application GIF](https://im4.ezgif.com/tmp/ezgif-4-06971a141b72.gif)
+![Application GIF](https://github.com/franciscosvargas/quiz/blob/master/application.gif?raw=true)
 
 
 ## Development Technologies
